@@ -1,7 +1,7 @@
 // Based on
 //
 // Showdown -- A JavaScript port of Markdown https://github.com/coreyti/showdown
-// html2markdown -- Convert an HTML document to Markdownhttps://bitbucket.org/tim_heap/html2markdown/
+// html2markdown -- Convert an HTML document to Markdown https://bitbucket.org/tim_heap/html2markdown/
 //
 //
 // Usage:
